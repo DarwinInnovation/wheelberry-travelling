@@ -1,0 +1,11 @@
+{
+  "name": "wheelberry-travelling",
+  "version": "1.0.0",
+  "description": "Wheelberry Project - super-project for developing wheelchair based software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Miller-Smith",
+  "license": "MIT"
+}

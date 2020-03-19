@@ -1,0 +1,6 @@
+[submodule "wheelberry-travelling-chair-control"]
+	path = wheelberry-travelling-chair-control
+	url = git@github.com:DarwinInnovation/wheelberry-travelling-chair-control.git
+[submodule "node-wheelberry-i2c"]
+	path = node-wheelberry-i2c
+	url = git@github.com:DarwinInnovation/node-wheelberry-i2c
